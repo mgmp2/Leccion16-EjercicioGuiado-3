@@ -1,6 +1,7 @@
 function pesoPlaneta(){
     
     var peso = document.getElementById("peso");
+    var x = prompt(" Ingrese su peso ");
     var jupiter = peso.value * 0.39;
     var venus   = peso.value * 0.87;
     var urano   = peso.value * 0.99;
